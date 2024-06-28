@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arjun Arunasalam"
+title                    : "Devin Ersoy"
 title_separator          : "-"
 name                     : &name "Arjun Arunasalam"
-description              : &description "Security Research Assistant at Purdue University"
-url                      : https://arjunaru97.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Security Researcher at Purdue University"
+url                      : https://devinat1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" # TODO Change this to be your own domain from AWS
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arjunaru97/arjunaru97.github.io"
+repository               : "devinat1/devinat1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arjun Arunasalam"
+  name             : "Devin Ersoy"
   avatar           : "central-park-headshot.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "West Lafayette"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?user=Uzjc37UAAAAJ
+  googlescholar    : https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOAOcb0fcKPwRPv91G5ceS0dXmeqlYI8yRUFKiRH_eaQQfgmI_9-aL0d_NY3TudzSPZi2EDz4UCSDM3pr2fzVQ&user=9IDltiUAAAAJ
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/arjun-arunasalam-93701414a/
+  linkedin         : https://www.linkedin.com/in/devinersoy/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ArjunArunasalam
+  X          : DevinErsoy496
   vine             :
   weibo            :
   xing             :
