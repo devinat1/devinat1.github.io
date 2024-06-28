@@ -39,7 +39,7 @@ Programming Languages: Assembly, AWS, C, C++, Datadog, Docker, Firebase, Flask, 
 English (Native), Turkish (Fluent), Norwegian (Fluent), German (Basic)
 
 
-Prior Employment
+Employment
 -----------
 **Philips Hue, Menlo Park, CA**  
 *Cloud Development Engineer*  

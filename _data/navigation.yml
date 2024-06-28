@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications
+  # - title: "Publications"
+    # url: /publications
 
   # - title: "Talks"
   #   url: /talks/      
@@ -18,12 +18,8 @@ main:
   - title: "Background"
     url: /background/
 
-  - title: "UX Portfolio"
-    url: /files/ux-research-portfolio.pdf
-  
   - title: "CV"
-    url: /files/arjun_arunasalam_CV_april_2024.pdf
-
+    url: /files/detailed_resume.pdf
 
   - title: "Teaching"
     url: /teaching/  
