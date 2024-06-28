@@ -86,7 +86,7 @@ author:
   location         : "West Lafayette"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOAOcb0fcKPwRPv91G5ceS0dXmeqlYI8yRUFKiRH_eaQQfgmI_9-aL0d_NY3TudzSPZi2EDz4UCSDM3pr2fzVQ&user=9IDltiUAAAAJ
+  googlescholar    : https://scholar.google.com/citations?user=9IDltiUAAAAJ
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/devinersoy/
+  linkedin         : devinersoy
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
