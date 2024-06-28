@@ -1,12 +1,9 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications
 author_profile: true
 ---
-
-
-
 
 ## Conference Proceedings
 ### 2024
