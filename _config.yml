@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  X          : DevinErsoy496
+  X                : DevinErsoy496
   vine             :
   weibo            :
   xing             :
@@ -178,16 +178,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: :collection/:path/
+    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: :collection/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: :collection/:path/
+    permalink: /:collection/:path/
   talks:
     output: true
-    permalink: :collection/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
