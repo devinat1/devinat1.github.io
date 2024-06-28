@@ -18,6 +18,11 @@ author_profile: true
 Education  
 -----------
 
+<!-- TODO Add this back in when done -->
+<!-- **Purdue University, West Lafayette**  
+August 2024 – Present  
+PhD in Computer Science  -->
+
 **Purdue University, West Lafayette**  
 August 2022 – May 2024  
 Master of Science in Computer Science  
