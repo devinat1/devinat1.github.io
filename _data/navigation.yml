@@ -16,12 +16,12 @@ main:
   #   url: /cv/
     
   - title: "Background"
-    url: /background/
+    url: background
 
   - title: "CV"
-    url: /files/detailed_resume.pdf
+    url: files/detailed_resume.pdf
 
   - title: "Teaching"
-    url: /teaching/  
+    url: teaching
 
 
