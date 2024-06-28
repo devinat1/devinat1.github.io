@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Devin Ersoy"
 title_separator          : "-"
-name                     : &name "Arjun Arunasalam"
+name                     : &name "Devin Ersoy"
 description              : &description "Security Researcher at Purdue University"
 url                      : https://devinat1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" # TODO Change this to be your own domain from AWS
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Devin Ersoy"
-  avatar           : "central-park-headshot.jpg"
+  avatar           : "headshot.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "West Lafayette"
   employer         :
