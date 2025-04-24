@@ -16,7 +16,7 @@ main:
     url: /background
 
   - title: "CV"
-    url: /files/detailed_resume.pdf
+    url: /files/resume.pdf
 
   - title: "Teaching"
     url: /teaching 

@@ -17,10 +17,7 @@ redirect_from:
   gtag('config', 'G-ZSMV5NQV3R');
 </script>
 
-
-I am a 2nd year Masters student at Purdue University. I work under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and am part of [PurSec Lab](https://pursec.cs.purdue.edu/pubs.html).
-
-My primary research goal is understanding and improving security, privacy, and trust in IoT.
+I am a Software Engineer and researcher. I currently work at Hue, where I build agentic lighting workflows. Previously, I worked at MultiOn, where I built web agents and worked on evals.
 
 News
 -----
