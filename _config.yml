@@ -83,10 +83,10 @@ author:
   name             : "Devin Ersoy"
   avatar           : "headshot.jpg"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "West Lafayette"
+  # location         : "West Lafayette"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?user=9IDltiUAAAAJ
+  # googlescholar    : https://scholar.google.com/citations?user=9IDltiUAAAAJ
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
