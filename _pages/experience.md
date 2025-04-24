@@ -15,30 +15,6 @@ author_profile: true
   gtag('config', 'G-ZSMV5NQV3R');
 </script>
 
-Education  
------------
-
-**Purdue University, West Lafayette**  
-August 2022 – May 2024  
-Master of Science in Computer Science  
-- GPA: 3.83 / 4.0
-- Relevant Courses: Operating Systems, Advanced Algorithms, Software Engineering, Database Systems, Information Security, Cloud Computing, Computer Networks, Software Testing
-
-**Purdue University, West Lafayette**  
-August 2018 – May 2022  
-Bachelor of Science in Computer Science  
-- GPA: 3.85 / 4.0
-- Relevant Courses: Systems Programming, Algorithms, Programming in C, Calculus, Linear Algebra, Statistics, Information Systems, Computer Architecture
-
-Technical Skills
------------
-**Software Experience**  
-Programming Languages: Assembly, AWS, C, C++, Datadog, Docker, Firebase, Flask, Go, Heroku, HTTP, Java, Kubernetes, JavaScript, Linux, Terraform, MongoDB, Neo4J, Python, React, REST, SQL, Websocket
-
-**Languages**  
-English (Native), Turkish (Fluent), Norwegian (Fluent), German (Basic)
-
-
 Employment
 -----------
 
@@ -64,3 +40,26 @@ Employment
 
 * Undergraduate Teaching Assistant (Dec 2019 – Sep 2021), Purdue University, West Lafayette, IN  
   * Supervised students in finding bugs and explained complex concepts in Python, C, Java, and Computer Architecture courses.
+
+Education  
+-----------
+
+**Purdue University, West Lafayette**  
+August 2022 – May 2024  
+Master of Science in Computer Science  
+- GPA: 3.83 / 4.0
+- Relevant Courses: Operating Systems, Advanced Algorithms, Software Engineering, Database Systems, Information Security, Cloud Computing, Computer Networks, Software Testing
+
+**Purdue University, West Lafayette**  
+August 2018 – May 2022  
+Bachelor of Science in Computer Science  
+- GPA: 3.85 / 4.0
+- Relevant Courses: Systems Programming, Algorithms, Programming in C, Calculus, Linear Algebra, Statistics, Information Systems, Computer Architecture
+
+Technical Skills
+-----------
+**Software Experience**  
+Programming Languages: AAssembly; AWS; C; Datadog; Docker; Firebase; GitLab CI; Go; Java; JavaScript; Linux; MongoDB; Neo4J; NextJS; Playwright; Python; React; REST; SQL; Terraform; TypeScript  
+
+**Languages**  
+English (Native), Turkish (Fluent), Norwegian (Fluent), German (Basic)
