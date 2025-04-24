@@ -18,11 +18,6 @@ author_profile: true
 Education  
 -----------
 
-<!-- TODO Add this back in when done -->
-<!-- **Purdue University, West Lafayette**  
-August 2024 – Present  
-PhD in Computer Science  -->
-
 **Purdue University, West Lafayette**  
 August 2022 – May 2024  
 Master of Science in Computer Science  
@@ -46,41 +41,26 @@ English (Native), Turkish (Fluent), Norwegian (Fluent), German (Basic)
 
 Employment
 -----------
-**Philips Hue, Menlo Park, CA**  
-*Cloud Development Engineer*  
-May 2024 – Present  
-- In progress work on Google home integration for Hue integrated devices.
 
-**Purdue University, West Lafayette, IN**  
-*Graduate Teaching Assistant*  
-Jan 2023 – Present  
-- Created assignments, managed administrative tasks, and mentored students for two courses: Software Testing (Spring 2023) and Software Engineering (Fall 2023).
-- Assessed, monitored, recorded, and reported on student learning needs, progress, and achievements.
+* Cloud Development Engineer (May 2024 – Present), Philips Hue, Menlo Park, CA  
+  * Migrated Google Home integration for Hue smart‑home devices from NodeJS to Go, reducing latency by 30% and cost by 20%.  
+  * Deployed and managed AWS infrastructure (API Gateway, Lambda, ElastiCache, Elastic Beanstalk, DynamoDB, Docker, EKS, CloudWatch).
 
-**Philips Hue, Menlo Park, CA**  
-*IoT Software Engineer Intern*  
-Jun 2023 – Aug 2023  
-- Engineered Golang Philips Hue Sync Box Alexa Skill integration that has been deployed worldwide.
-- Created API Gateway, Lambda, DynamoDB and CloudWatch resources and IAM policies in AWS with Terraform.
-- Implemented Observability as Code for Datadog, enhancing team awareness of product performance.
-- Utilized AWS SAM and LocalStack to test and configure IAM policies and AWS resources.
+* AI Software Engineer (July 2024 – Nov 2024), MultiOn AI, Palo Alto, CA  
+  * Built LiteAgent to run and stress‑test multiple LLM‑powered agents in parallel using Python, Playwright, and Docker.  
+  * Created a web test bed with seven apps for LLM agent evaluation using NextJS, React/TypeScript, Python, and Docker.
 
-**Superbrain Securities, New York City, NY**  
-*Software Engineer and Researcher*  
-Aug 2020 – Aug 2022  
-- Led team in a startup company focused on development of algorithms for financial analysis and stock prediction, leading to profits by applying algorithms to real-time trading.
-- Researched algorithms for stock trading and portfolio management through machine learning.
-- Developed financial analysis and stock prediction app, integrating React/JS, Python/Flask, PostgreSQL.
-- Managed Docker containers for development and production workflows to streamline development processes.
+* Software Engineer Intern (Jun 2023 – Aug 2023), Philips Hue, Menlo Park, CA  
+  * Engineered Go‑based Hue Sync Box Alexa Skill integration, now deployed worldwide.  
+  * Provisioned AWS resources (API Gateway, Lambda, DynamoDB, CloudWatch) and IAM policies via Terraform.
 
-**Purdue University, West Lafayette, IN**  
-*Undergraduate Teaching Assistant*  
-Dec 2019 – Sep 2021  
-- Served as a TA in four courses: Python Object-Oriented Programming (Spring 2019 and Fall 2019), Programming in C (Spring 2020), Computer Architecture (Summer 2020), and Programming in Java (Fall 2021).
-- Proctored lab sessions and held office hours to help students, graded homework and labs, and answered student questions on Piazza forum.
+* Software Engineer (Aug 2019 – Aug 2022), WaveFront Analysis, New York City, NY  
+  * Managed AWS infrastructure and CI/CD pipelines for deployment with Terraform, Docker, and GitLab CI.  
+  * Developed a financial analysis & stock prediction app using React/JS, Python/Flask, and PostgreSQL.
 
-**Purdue University, West Lafayette, IN**  
-*Curriculum Developer*  
-Jun 2020 – Aug 2020  
-- Designed homework assignments, and labs in Data Structures and Algorithms course.
-- Tested code in three projects with JUnit tests to uncover fatal bugs before launch.
+* Graduate Teaching Assistant (Jan 2023 – December 2024), Purdue University, West Lafayette, IN  
+  * Created assignments, managed administrative tasks, and mentored students in Software Testing and Software Engineering courses.  
+  * Assessed student learning needs, progress, and achievements.
+
+* Undergraduate Teaching Assistant (Dec 2019 – Sep 2021), Purdue University, West Lafayette, IN  
+  * Supervised students in finding bugs and explained complex concepts in Python, C, Java, and Computer Architecture courses.
