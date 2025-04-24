@@ -19,8 +19,8 @@ redirect_from:
 
 I am a Software Engineer and researcher. I currently work at Hue, where I build agentic lighting workflows. Previously, I worked at MultiOn, where I built web agents and worked on evals.
 
-News
------
+<!-- News
+----- -->
 
 <!-- 
 	**[Before Feb 2024]** I did cool stuff. I hope you appreciate the cool stuff I did.   
