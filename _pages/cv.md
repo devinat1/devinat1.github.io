@@ -48,5 +48,5 @@ Education
 
 Technical Skills
 ======
-**Software & Tools:** Assembly; AWS; C; Datadog; Docker; Firebase; GitLab CI; Go; Java; JavaScript; Linux; MongoDB; Neo4J; NextJS; Python; React; REST; SQL; Terraform; TypeScript  
+**Software & Tools:** Assembly; AWS; C; Datadog; Docker; Firebase; GitLab CI; Go; Java; JavaScript; Linux; MongoDB; Neo4J; NextJS; Playwright; Python; React; REST; SQL; Terraform; TypeScript  
 **Languages:** English (Native); Turkish (Fluent); Norwegian (Fluent); German (Basic)
