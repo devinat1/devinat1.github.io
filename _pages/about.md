@@ -17,7 +17,7 @@ redirect_from:
   gtag('config', 'G-ZSMV5NQV3R');
 </script>
 
-I am a Software Engineer and researcher. I currently work at Hue, where I build agentic lighting workflows. Previously, I worked at MultiOn, where I built web agents and worked on evals.
-
+I am a Software Engineer and researcher. I currently work at Hue, where I built the integration for google and the Hue lighting ecosystem. Previously, I worked at MultiOn, where I built web agents and worked on evals.
+j
 <!-- News
 ----- -->
