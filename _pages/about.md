@@ -18,6 +18,6 @@ redirect_from:
 </script>
 
 I am a Software Engineer and researcher. I currently work at Hue, where I built the integration for google and the Hue lighting ecosystem. Previously, I worked at MultiOn, where I built web agents and worked on evals.
-j
+
 <!-- News
 ----- -->
