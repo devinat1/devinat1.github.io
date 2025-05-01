@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
  
-Hello and welcome to my humble website! I am an AI engineer and researcher interested in building observability and evaluation of LLM based agentic systems. I currently work at Hue, where I wrote the Gemini integration with the Hue lighting ecosystem. Previously, I worked at MultiOn, where I built evals to better web/browser using agents.
+Hello and welcome to my humble website! I am an AI engineer and researcher interested in building the observability layer of LLM based agentic systems. I currently work at Hue, where I wrote the Gemini integration with the Hue lighting ecosystem. Previously, I worked at MultiOn, where I built evals to better web/browser using agents.
 
 
 <!-- News
