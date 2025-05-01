@@ -15,7 +15,7 @@ Professional Experience
   * Migrated Google Home integration for Hue smart‑home devices from NodeJS to Go, reducing latency by 30% and cost by 20%.
   * Deployed and managed AWS infrastructure (API Gateway, Lambda, ElastiCache, Elastic Beanstalk, DynamoDB, Docker, EKS, CloudWatch).
 
-* AI Software Engineer (July 2024 – Nov 2024), MultiOn AI, Palo Alto, CA
+* AI Software Engineer (Jan 2024 – May 2024), MultiOn AI, Palo Alto, CA
   * Built LiteAgent to run and stress‑test multiple LLM‑powered agents in parallel using Python, Playwright, and Docker.
   * Created a web test bed with seven apps for LLM agent evaluation using NextJS, React/TypeScript, Python, and Docker.
 
