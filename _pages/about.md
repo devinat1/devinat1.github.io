@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
  
-Hello and welcome to my website! Hope you are having a good day. I am an AI engineer and researcher interested in building the observability layer of LLM based agentic systems. I currently work at Hue, where I wrote the Gemini integration with the Hue lighting ecosystem. Previously, I worked at MultiOn, where I built a system to dynamically evaluate web/browser using agents.
+Hello and welcome to my website! Hope you are having a good day. I am an AI engineer and researcher interested in the observability layer of LLM based agentic systems. I currently work at Hue, where I integrated Gemini/Google Assitant with the Hue lighting ecosystem. Previously, I worked at MultiOn, where I built a system to dynamically evaluate web/browser using agents.
 
 Feel free to check out my blog and CV, or reach out on LinkedIn!
 
