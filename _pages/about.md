@@ -20,7 +20,7 @@ redirect_from:
  
 Hello and welcome to my website! I am an AI engineer and researcher interested in the observability layer of LLM based agentic systems. I currently work at Hue, where I integrated Gemini/Google Assistant with the Hue lighting ecosystem. Previously, I worked at MultiOn, where I built a system to dynamically evaluate web/browser using agents.
 
-Feel free to check out my blog and CV, or reach out on LinkedIn!
+Feel free to check out my blog and resume, or reach out on LinkedIn!
 
 <!-- News
 ----- -->
