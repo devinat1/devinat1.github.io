@@ -59,7 +59,7 @@ Bachelor of Science in Computer Science
 Technical Skills
 -----------
 **Software Experience**  
-Programming Languages: AAssembly; AWS; C; Datadog; Docker; Firebase; GitLab CI; Go; Java; JavaScript; Linux; MongoDB; Neo4J; NextJS; Playwright; Python; React; REST; SQL; Terraform; TypeScript  
+Programming Languages: Assembly; AWS; C; Datadog; Docker; Firebase; GitLab CI; Go; Java; JavaScript; Linux; MongoDB; Neo4J; NextJS; Playwright; Python; React; REST; SQL; Terraform; TypeScript  
 
 **Languages**  
 English (Native), Turkish (Fluent), Norwegian (Fluent), German (Basic)
