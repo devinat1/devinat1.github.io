@@ -12,8 +12,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Background"
-    url: /background
+  # - title: "Background"
+  #   url: /background
 
   - title: "Resume"
     url: /files/resume.pdf
