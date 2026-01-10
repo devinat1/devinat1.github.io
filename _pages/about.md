@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
  
-Hello and welcome to my website! I am a Software Engineer at [Circleback](https://circleback.ai/), where I work on AI powered note taking. Previously, I worked on LLM observability at [Helicone](https://www.helicone.ai/), and AI engineering at [Hue](https://www.philips-hue.com/en-us), where I integrated [Gemini](https://gemini.google.com/) into the Hue lighting ecosystem. Before that, I worked at [AGI](https://www.theagi.company/), where I built a framework to dynamically evaluate web agents such as [Operator](https://openai.com/index/introducing-operator/). In my free time, I contribute to [Obsidian](https://obsidian.md/) and make [short films](https://www.youtube.com/watch?v=Wpo-X9__0ic&list=PLqCNIxjOjyAzME1Eg9g0secuALymjCcor&index=10).
+I am a Software Engineer at [Circleback](https://circleback.ai/), where I work on AI powered note taking. Previously, I worked on LLM observability at [Helicone](https://www.helicone.ai/), and AI engineering at [Hue](https://www.philips-hue.com/en-us), where I integrated [Gemini](https://gemini.google.com/) into the Hue lighting ecosystem. Before that, I worked at [AGI](https://www.theagi.company/), where I built a framework to dynamically evaluate web agents such as [Operator](https://openai.com/index/introducing-operator/). In my free time, I contribute to [Obsidian](https://obsidian.md/) and make [short films](https://www.youtube.com/watch?v=Wpo-X9__0ic&list=PLqCNIxjOjyAzME1Eg9g0secuALymjCcor&index=10).
 
 <!-- News
 ----- -->
