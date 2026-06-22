@@ -17,7 +17,7 @@ redirect_from:
   gtag('config', 'G-ZSMV5NQV3R');
 </script>
 
-SWE and AI safety researcher turned founder. Prev @ [Philips](https://www.philips-hue.com/en-us), [AGI Inc/MultiOn](https://www.theagi.company/) (Amazon), [Circleback](https://circleback.ai/) (YC), [Helicone](https://www.helicone.ai/) (YC), [Purdue](https://www.purdue.edu/). Thinks about agents all the time (it is a bit of an obsession).
+SWE and AI safety researcher. Prev @ [Philips](https://www.philips-hue.com/en-us), [AGI Inc/MultiOn](https://www.theagi.company/) (Amazon), [Circleback](https://circleback.ai/) (YC), [Helicone](https://www.helicone.ai/) (YC), [Purdue](https://www.purdue.edu/). Thinks about agents all the time (it is a bit of an obsession).
 
 Professional Experience
 -----------
