@@ -22,7 +22,7 @@ redirect_from:
 
 Some things about me:
 
-- Made [Resyndeo](https://resyndeo.com/), [FixCodeNow](https://fixcodenow.com/), and [BindMe](https://bindme.app/)
+- Made [Resyndeo](https://resyndeo.com/), [FixCodeNow](https://fixcodenow.com/), [BindMe](https://bindme.app/), and [KaaS](https://k8s.fixcodenow.com/)
 - Engineer. Prev [Circleback](https://circleback.ai/) (YC), [Helicone](https://www.helicone.ai/) (YC, acquired by Mintlify), [Philips Hue](https://www.philips-hue.com/en-us), and [AGI Inc](https://www.theagi.company/)
 - At Circleback, I built the top connector in the Claude marketplace and the meeting analytics feature
 - Before that I scaled Helicone's Kubernetes infra, which added $300k ARR
