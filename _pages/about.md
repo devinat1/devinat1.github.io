@@ -43,7 +43,7 @@ Some videos I've made:
 
 Where to find me:
 
+- [LinkedIn](https://www.linkedin.com/in/devinersoy)
 - [GitHub](https://github.com/devinat1)
 - [Twitter](https://x.com/DevinErsoy496)
-- [LinkedIn](https://www.linkedin.com/in/devinersoy)
 - [YouTube](https://www.youtube.com/@devinersoy)
