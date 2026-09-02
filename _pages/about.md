@@ -23,8 +23,8 @@ redirect_from:
 Some things about me:
 
 - Made [Resyndeo](https://resyndeo.com/), [FixCodeNow](https://fixcodenow.com/), and [BindMe](https://bindme.app/)
-- Started as an engineer. Prev [Circleback](https://circleback.ai/) (YC), [Helicone](https://www.helicone.ai/) (YC, acquired by Mintlify), [Philips Hue](https://www.philips-hue.com/en-us), and [AGI Inc](https://www.theagi.company/)
-- At Circleback I built the meeting-notes MCP that's the top connector in the Claude marketplace
+- Engineer. Prev [Circleback](https://circleback.ai/) (YC), [Helicone](https://www.helicone.ai/) (YC, acquired by Mintlify), [Philips Hue](https://www.philips-hue.com/en-us), and [AGI Inc](https://www.theagi.company/)
+- At Circleback, I built the top connector in the Claude marketplace and the meeting analytics feature
 - Before that I scaled Helicone's Kubernetes infra, which added $300k ARR
 - Shipped AI for Hue devices to millions of homes
 - [IEEE S&P](https://arxiv.org/abs/2510.18113) paper on dark patterns and LLM web agents
@@ -41,3 +41,4 @@ Where to find me:
 - [GitHub](https://github.com/devinat1)
 - [Twitter](https://x.com/DevinErsoy496)
 - [LinkedIn](https://www.linkedin.com/in/devinersoy)
+- [YouTube](https://www.youtube.com/@devinersoy)
