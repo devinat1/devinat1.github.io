@@ -33,8 +33,13 @@ Some things about me:
 
 Some things I've written:
 
-- [AI PR reviews need a human attention map](https://blog.mydevin.com/agent-tooling/AI-PR-reviews-need-a-human-attention-map) <span class="date">(Aug 2026)</span>
-- [If Your Product Can Become a Skill, Where's the Moat?](https://blog.mydevin.com/agent-tooling/Skillify-The-Cost-Test-and-the-Moat-Test) <span class="date">(Aug 2026)</span>
+- [An Obsidian Philosophy](https://medium.com/@devinat11/an-obsidian-philosophy-bcb5a11bb617) <span class="date">(Jan 2024)</span>
+- [How I Automated Dating and Got a Girlfriend](https://blog.mydevin.com/personal/How-I-Automated-Dating-and-Got-a-Girlfriend) <span class="date">(Apr 2026)</span>
+
+Some videos I've made:
+
+- [AI which makes you aware of your ignorance](https://www.youtube.com/watch?v=ck6SEvEsOqE) <span class="date">(Aug 2026)</span>
+- [AI coding tools that have actually changed how I build](https://www.youtube.com/watch?v=swUqdExzy0I) <span class="date">(Apr 2026)</span>
 
 Where to find me:
 
