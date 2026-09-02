@@ -28,7 +28,7 @@ Some things about me:
 - Before that I scaled Helicone's Kubernetes infra, which added $300k ARR
 - Shipped AI for Hue devices to millions of homes
 - [IEEE S&P](https://arxiv.org/abs/2510.18113) paper on dark patterns and LLM web agents
-- At AGI Inc., I built web-agent evals
+- At AGI Inc., I built web agent evals that led to more reliable browser use
 - CS from Purdue (MS + BS)
 
 Some things I've written:
