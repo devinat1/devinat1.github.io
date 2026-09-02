@@ -38,7 +38,6 @@ Some things I've written:
 
 Where to find me:
 
-- [Blog](https://blog.mydevin.com)
 - [GitHub](https://github.com/devinat1)
 - [Twitter](https://x.com/DevinErsoy496)
 - [LinkedIn](https://www.linkedin.com/in/devinersoy)
